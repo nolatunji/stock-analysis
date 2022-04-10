@@ -5,6 +5,8 @@ The goal of this project is to analyze stock data from the years of 2017 and 201
 
 ## Results
 The analysis for the project began with raw 2017 and 2018 stock data for 12 green energy companies which included the total daily volume for each company. Using VBA code the daily volumes for each company were used to calculate the yearly return for each of the 12 companies. 
+![image](https://user-images.githubusercontent.com/96552268/162619975-4724fc41-7827-42e6-b650-3fc1b001ff37.png)
+![image](https://user-images.githubusercontent.com/96552268/162619981-7a6d66cf-9a01-4793-80c7-b59d2824d6a1.png)
 
 
 
