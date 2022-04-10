@@ -20,5 +20,9 @@ After running the original Green stocks analysis we wanted to refactor the code 
 ![image](https://user-images.githubusercontent.com/96552268/162619779-4e018d23-be11-4bb3-9f4b-31138dbb14fe.png)
 ![image](https://user-images.githubusercontent.com/96552268/162620600-cb2af243-070e-4c0c-91a0-2700584b0bed.png)
 ![image](https://user-images.githubusercontent.com/96552268/162620611-50bf71d8-0231-491e-ba17-95fac364df18.png)
+After running the Green stocks analysis we were able to see that the DQ stock that our clients were orginally planning to invest in had returns that decreased over 60% between 2017 and 2018 and might not be the best investment option.
 
 ## Summary
+Overall there are advantages and disadvantages to refactoring code. The greatest advantage to refactoring code is that you create code that is easier to read and understand and that will run faster than if you had not refactored the code. A disadvantage of refactoring code is the time it takes to re-write the code to improve the function. 
+
+In reference to the orginal VBA code the advantages were that the code was easier to write due to the fact that we used less variables and appeared to be more straigtforward. The disadvantages were that the code took longer to complete the analysis. The advantage of the refactored code is that it was able to process the analysis faster than the original code. The disadvantages of the refactored code was the time it takes to test the changes that are being made to refactor the code without disrupting the functionality of the orginal code. There were specific challenges with getting "Runtime Overflow Errors" on different varibles. The errors were debugged by reviewing the code several times and making changes to the variable data types (which did not resolve the issue) and continuting to review the code to discover the (tickerIndex) was missing as an arguement in certain lines of the code. 
